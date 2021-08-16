@@ -1,8 +1,11 @@
 # Escape Game HP
 
-<h3> Taking electronics to entertainment </h3>
+<h3> What is this about </h3>
 
-<p>Repo containing all source codes for immersive escape game based on Harry Potter world</p>
+This repo contain all source codes built for an immersive escape game based on the Harry Potter world
+What we trying to do is to fake magic using electronics.
+
+I'll keep this RM file updated with the latest updates of the the project.
 <br><br><br><br><br>
 <br>
 .<br>
